@@ -6,4 +6,4 @@ During the development of this project different researches were done for the co
 Different approaches(Naive Bayes, Logistic regression, Support vector machine K nearest neighbors, RandomForest and Decision Tree) were tried for the development of model.Among all these approaches Decision tree was able to obtain the highest accuracy score, and was finalize for the model.
 
 
-
+Datasets for the project is available in  https://drive.google.com/file/d/1va60hnWSG5ZxeItAb8GVEQfzrkovgn35/view?usp=sharing
